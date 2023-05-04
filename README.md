@@ -7,7 +7,7 @@
 * Jenkins - CI/CD tool
 * Babel - Es6 test framework
 
-## Istall
+## Install
 ``
 npm i --save-dev supertest mocha chai @babel/cli @babel/core @babel/node @babel/register @babel/preset-env
 ``
