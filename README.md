@@ -11,3 +11,7 @@
 ``
 npm i --save-dev supertest mocha chai mochawesome @babel/cli @babel/core @babel/node @babel/register @babel/preset-env
 ``
+
+## Test
+`` npm test ``
+`` npm run test-html ``
