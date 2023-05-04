@@ -9,5 +9,5 @@
 
 ## Install
 ``
-npm i --save-dev supertest mocha chai @babel/cli @babel/core @babel/node @babel/register @babel/preset-env
+npm i --save-dev supertest mocha chai mochawesome @babel/cli @babel/core @babel/node @babel/register @babel/preset-env
 ``
